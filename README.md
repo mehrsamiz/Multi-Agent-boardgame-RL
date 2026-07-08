@@ -12,7 +12,7 @@ The core codebase shifts away from simple hand-tuned heuristic baselines toward 
 
 ---
 
-## 🔬 Research Thesis: State-Space Abstraction vs. Exploding Combinatorics
+## 🔬 State-Space Abstraction vs. Exploding Combinatorics
 
 When dealing with a grid-based combinatorial game on a $6 \times 6$ layout with 36 discrete cards partitioned across 7 distinct houses with varying frequencies, tracking the exact grid state configuration results in an unmanageable state-space explosion ($>36!$). This repository serves as an empirical study on mitigating the **Curse of Dimensionality** using two fundamentally distinct algorithmic paradigms:
 
