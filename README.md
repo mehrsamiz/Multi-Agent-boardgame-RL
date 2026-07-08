@@ -1,10 +1,12 @@
-
-
 # Multi-Agent Reinforcement Learning and Evolutionary Computing for Combinatorial Board Game Optimization
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Pygame-green.svg)](https://www.pygame.org/)
 [![Paradigm](https://img.shields.io/badge/paradigm-RL%20%26%20Evolutionary-orange.svg)](https://en.wikipedia.org/wiki/Reinforcement_learning)
+
+>  **Academic Context:** Final Course Project (Phase 2) — Artificial Intelligence, Winter 2025 (Jan–Feb)  
+>  **Core Paradigm:** Model-Free Tabular RL vs. Global Evolutionary Optimization  
+
 
 This repository contains an advanced Artificial Intelligence benchmark suite implemented for the complex combinatorial board game **Hand of the King** (based on the original tabletop design by Bruno Cathala). The project explores the boundaries between model-free **Temporal-Difference Reinforcement Learning (Q-Learning)** and **Global Evolutionary Parameter Optimization (Genetic Algorithms)** when subjected to severe state-space combinatorics, non-linear heuristic spaces, and multi-phase stochastic decision boundaries (Companion Cards).
 
