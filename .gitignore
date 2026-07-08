@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Reinforcement Learning binary data and weights (Prevent pushing heavy training tables)
+*.pkl
+*.json
+!agents/*.json   # Exclude configurations inside the agents folder if necessary
+
+# Environment & IDE configurations
+.venv/
+env/
+ENV/
+.vscode/
+.idea/
+
+# OS-specific hidden system files
+.DS_Store
+Thumbs.db
