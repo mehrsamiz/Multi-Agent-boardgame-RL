@@ -166,7 +166,3 @@ git clone [https://github.com/mehrsamiz/Multi-Agent-boardgame-RL.git](https://gi
 cd Multi-Agent-boardgame-RL
 
 ```
-
-```
-
-```
