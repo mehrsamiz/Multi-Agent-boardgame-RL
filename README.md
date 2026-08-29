@@ -48,7 +48,7 @@ When dealing with a grid-based combinatorial game on a $6 \times 6$ layout with 
 
 ---
 
-## 🛠️ Core Architecture & Agent Framework
+##  Core Architecture & Agent Framework
 
 ### 1. Canonical Exact State Q-Learning (`q_learning_exact.py`)
 
@@ -121,7 +121,7 @@ For high-cardinality splits (e.g., *Ramsay*), it caps the expansion at 20 distin
 
 ---
 
-## 📈 Strategic Exploration & Convergence Mechanics
+##  Strategic Exploration & Convergence Mechanics
 
 Rather than relying on fixed heuristic fallbacks or simple exploration constraints, the reinforcement learning models drive autonomous exploration through **Optimistic Initial Values**:
 
@@ -130,7 +130,7 @@ Rather than relying on fixed heuristic fallbacks or simple exploration constrain
 
 ---
 
-## 💾 Core Infrastructure Features
+##  Core Infrastructure Features
 
 ### Asynchronous Runtime Persistence Engine
 
@@ -141,7 +141,7 @@ To maintain training continuity across independent runs or long tournament phase
 
 ---
 
-## 📊 Comparative Paradigm Analysis
+##  Comparative Paradigm Analysis
 
 | Algorithmic Agent | State Vector Type | Reward Signal Paradigm | Exploration Engine | Multi-Phase Companion Handling |
 | --- | --- | --- | --- | --- |
@@ -153,7 +153,7 @@ To maintain training continuity across independent runs or long tournament phase
 
 ---
 
-## 🚀 Installation & Execution
+##  Installation & Execution
 
 ### Prerequisites
 
